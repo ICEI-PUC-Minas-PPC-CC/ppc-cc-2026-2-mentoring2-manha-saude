@@ -23,12 +23,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+   O acesso à saúde é um direito para todos e, por causa disso, há o acesso gratuito à medicina, que, no caso das pessoas de baixa renda, seria o SUS. Diante desse contexto, existem, em várias partes do Brasil, hospitais que trabalham com esse tipo de atendimento, inclusive em Poços de Caldas, na faculdade PUC. Porém, é visto que muitos pacientes não comparecem às consultas marcadas. Estudos publicados no Journal of School of Nursing – University of São Paulo apontam que 29% das faltas ocorrem por causa dos meios de transporte e 16,3% por causa de problemas financeiros. Diante desse problema, é importante resolver esses desafios, pois, na ODS 3 da Agenda 2030, é descrito que todos precisam ter um bem-estar de qualidade. Logo, desenvolver um projeto que diminua esses desafios pode contribuir para que os brasileiros tenham uma vida melhor no seu dia a dia.
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
