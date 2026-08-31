@@ -3,14 +3,8 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+ Pessoas em diversas regiões do Brasil não recebem atendimento médico adequado devido à falta de acesso a consultas. A PUC está enfrentando um problema em que pacientes marcam consultas médicas gratuitas, mas grande parte deles não comparece. Muitas vezes, o motivo é que essas pessoas moram longe do local de atendimento e não possuem condições de se deslocar até lá, seja pela falta de acesso a transporte, seja pela falta de condições financeiras para custeá-lo. 
+ Esse cenário evidencia que a localização das clínicas é um fator determinante para o não comparecimento dos pacientes, uma vez que a distância entre a residência e o local de atendimento pode dificultar o acesso, mesmo quando a consulta é gratuita.
 
 ## Objetivos
 
