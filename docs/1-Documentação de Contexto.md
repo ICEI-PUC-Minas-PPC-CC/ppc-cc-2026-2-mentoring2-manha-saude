@@ -8,12 +8,17 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Objetivo geral
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Reduzir o índice de não comparecimento às consultas gratuitas ofertadas pela PUC por meio da implantação de cabines de teleconsulta em unidades de saúde da região, aproximando o atendimento médico dos pacientes que enfrentam barreiras de deslocamento.
+
+Objetivos específicos
+
+a) Identificar e especificar os requisitos mínimos de hardware e de tratamento acústico das cabines, definindo uma configuração padrão que atenda à necessidade clínica sem superdimensionar componentes;
+
+b) Mensurar o consumo de banda larga de uma teleconsulta real, utilizando o aplicativo PEC como cenário de teste, a fim de dimensionar a infraestrutura de rede necessária em cada unidade;
+
+c) Estimar a capacidade de atendimento por cabine, em número de pacientes por turno e por dia, definindo quantas cabines seriam necessárias para absorver a demanda atual.
 
 ## Justificativa
 
