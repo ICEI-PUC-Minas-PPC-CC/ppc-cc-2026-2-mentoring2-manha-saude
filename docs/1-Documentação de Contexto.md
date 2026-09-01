@@ -24,13 +24,6 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Público-Alvo
 
- 
-
-Aqui está a versão ajustada, sem a parte sobre experiência com ferramentas digitais:
-
----
-
-**Descrição do Público-Alvo**
 
 O público-alvo desta ação é composto por pacientes de baixa renda atendidos pelo SUS, especialmente os vinculados a hospitais universitários como a PUC de Poços de Caldas. Esse grupo apresenta perfis variados quanto à idade, escolaridade e condição socioeconômica, refletindo a diversidade de pessoas que dependem do sistema público de saúde para acompanhamento médico.
 
