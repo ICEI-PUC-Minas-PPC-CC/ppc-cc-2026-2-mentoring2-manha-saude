@@ -24,12 +24,14 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+ 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+Aqui está a versão ajustada, sem a parte sobre experiência com ferramentas digitais:
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+---
+
+**Descrição do Público-Alvo**
+
+O público-alvo desta ação é composto por pacientes de baixa renda atendidos pelo SUS, especialmente os vinculados a hospitais universitários como a PUC de Poços de Caldas. Esse grupo apresenta perfis variados quanto à idade, escolaridade e condição socioeconômica, refletindo a diversidade de pessoas que dependem do sistema público de saúde para acompanhamento médico.
+
+Trata-se de pessoas já habituadas aos processos do SUS, mas que enfrentam barreiras recorrentes de transporte e condição financeira para comparecer às consultas, fatores que juntos respondem por quase metade das faltas registradas. Esse público também se relaciona com profissionais de saúde (médicos, enfermeiros e equipe administrativa), cuja adesão à ferramenta é igualmente importante. Compreender esse perfil é essencial para desenvolver uma solução acessível, alinhada aos objetivos da ODS 3 e da ODS 10 da Agenda 2030. 
