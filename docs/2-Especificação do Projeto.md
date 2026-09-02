@@ -58,7 +58,4 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 ### Artefatos para levantamento de dados
 
-esta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
-
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
-
+ Para o levantamento de dados do projeto [NOME DO PROJETO], o grupo realizou uma reunião com os professores orientadores Fabiano e Udo, no dia 28 de agosto, às 10h, com a participação das integrantes do grupo Nadya, Ana Letícia e Amanda, com o objetivo de discutir e alinhar as expectativas iniciais em relação ao projeto. Nesse encontro, o professor Fabiano explicou o contexto, os objetivos e as necessidades relacionadas ao projeto, e as informações discutidas foram registradas por meio de anotações realizadas pelas integrantes durante o encontro. A estratégia adotada foi a de reunião presencial, o que possibilitou o esclarecimento imediato de dúvidas e uma coleta de informações.
