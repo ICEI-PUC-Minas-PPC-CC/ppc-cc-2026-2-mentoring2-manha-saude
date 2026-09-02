@@ -1,6 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O acesso à saúde é um direito fundamental e deve ser garantido de forma igualitária a toda a população. Entretanto, apesar da existência de serviços de atendimento médico gratuito, diversos fatores ainda dificultam o acesso de parte da população às consultas. Entre esses fatores, destacam-se as dificuldades relacionadas ao transporte, à distância entre a residência do paciente e o local de atendimento e às condições financeiras para realizar o deslocamento.
+
+Nesse contexto, a PUC Minas enfrenta um problema relacionado ao não comparecimento de pacientes às consultas médicas gratuitas oferecidas pela instituição. Embora o atendimento seja disponibilizado sem custo, uma parcela dos pacientes não consegue comparecer devido às barreiras de deslocamento. Essa situação prejudica tanto os pacientes, que deixam de receber o acompanhamento médico necessário, quanto a própria instituição, que disponibiliza horários e recursos que acabam não sendo utilizados.
+
+Diante desse cenário, é proposto a implantação de cabines de teleconsulta em unidades de saúde da região, permitindo que os pacientes tenham acesso ao atendimento médico em locais mais próximos de suas residências. A proposta busca utilizar a tecnologia como ferramenta para aproximar pacientes e profissionais de saúde, reduzindo a necessidade de deslocamentos e, consequentemente, os custos e dificuldades associados ao atendimento presencial.
+
+Para que a solução seja implementada de maneira adequada, o projeto contempla a definição dos requisitos de hardware e tratamento acústico das cabines, a análise da infraestrutura de rede necessária para a realização das teleconsultas e a estimativa da capacidade de atendimento de cada cabine. Dessa forma, pretende-se desenvolver uma solução viável e dimensionada de acordo com a demanda existente.
+
+Além de contribuir para a redução das faltas às consultas, a iniciativa está relacionada aos Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030, especialmente o ODS 3, que busca assegurar uma vida saudável e promover o bem-estar para todos, e o ODS 10, voltado à redução das desigualdades. Assim, a proposta é utilizar a tecnologia para ampliar o acesso à saúde e contribuir para um atendimento mais acessível e inclusivo.
 
 ## Problema
  Pessoas em diversas regiões do Brasil não recebem atendimento médico adequado devido à falta de acesso a consultas. A PUC está enfrentando um problema em que pacientes marcam consultas médicas gratuitas, mas grande parte deles não comparece. Muitas vezes, o motivo é que essas pessoas moram longe do local de atendimento e não possuem condições de se deslocar até lá, seja pela falta de acesso a transporte, seja pela falta de condições financeiras para custeá-lo. 
