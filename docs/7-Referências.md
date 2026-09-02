@@ -6,7 +6,7 @@ As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, n
 
 Exemplos de referências:
 
-[1] SYED ST, GERBER BS, SHARP LK. Traveling towards disease: transportation barriers to health care access. J Community Health. 2013 Oct;38(5):976-93. doi: 10.1007/s10900-013-9681-1. PMID: 23543372; PMCID: PMC4265215. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC4265215/. Acesso em: 02 set. 2026.
+[X] SYED ST, GERBER BS, SHARP LK. Traveling towards disease: transportation barriers to health care access. J Community Health. 2013 Oct;38(5):976-93. doi: 10.1007/s10900-013-9681-1. PMID: 23543372; PMCID: PMC4265215. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC4265215/. Acesso em: 02 set. 2026.
 
 
 
