@@ -17,9 +17,9 @@ Além de contribuir para a redução das faltas às consultas, a iniciativa est�
 ## Objetivos
 
 Objetivo principal
-
-Reduzir o índice de não comparecimento às consultas gratuitas ofertadas pela PUC por meio da implantação de cabines de teleconsulta em unidades de saúde da região, aproximando o atendimento médico dos pacientes que enfrentam barreiras de deslocamento.
-
+ 
+  Implantação de cabines de teleconsulta em unidades de saúde da região, aproximando o atendimento médico dos pacientes que enfrentam barreiras de deslocamento e financeiro.
+  
 Objetivos específicos
 
 a) Identificar e especificar os requisitos mínimos de hardware e de tratamento acústico das cabines, definindo uma configuração padrão que atenda à necessidade clínica sem superdimensionar componentes;
