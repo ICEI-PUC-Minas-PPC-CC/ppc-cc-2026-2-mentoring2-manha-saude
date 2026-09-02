@@ -29,11 +29,17 @@ b) Mensurar o consumo de banda larga de uma teleconsulta real, utilizando o apli
 c) Estimar a capacidade de atendimento por cabine, em número de pacientes por turno e por dia, definindo quantas cabines seriam necessárias para absorver a demanda atual, considerando o absenteísmo de cada região:
 
 Zona Leste	10
+
 Zona Oeste	9
+
 Zona Sul	8
+
 Centro	6
+
 Zona Norte	6
+
 Total urbano	39
+
 
 
 ## Justificativa
