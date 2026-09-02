@@ -37,7 +37,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 ## Requisitos Funcionais
 
-### Persona 1
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
@@ -50,7 +49,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 ## Requisitos Não Funcionais
 
-### Persona 1
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
