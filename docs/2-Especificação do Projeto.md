@@ -1,47 +1,45 @@
 
-# Especificações do Projeto
+# ESPECIFICAÇÃO DO PROJETO
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 
 ## Personas
 
-| **Clemilton Fernandes** |  |  |
+| **Clemilton Fernandes** - Persona 1|  |  |
 |:-----------------------:|---|---|
 | <img width="200" height="200" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />| **Idade:** 46 anos.<br><br>**Naturalidade:** Poços de Caldas - Minas Gerais.<br><br>**Ocupação:** Professor | **Atribuições:** Ministrar aulas para alunos do ensino médio no período integral e noturno em uma escola pública. |
 | **Motivações:** Deseja conferir de forma rápida sobre seus níveis e melhorias em seu tratamento da diabetes. | **Frustrações:** Dificuldade para gerenciar a vida profissional e pessoal, pois trabalha durante um longo período e possui intervalos curtos e pouco flexíveis. | **Hobbies e história:** Almeja conseguir atendimentos rápidos e que não atrapalhem seu trabalho, evitando grandes deslocamentos. |
 
 
-| **Samuel Silva** |  |  |
+
+| **Samuel Silva** - Persona 2 |  |  |
 |:----------------:|---|---|
 <img width="1024" height="1024" alt="firmimno" src="https://github.com/user-attachments/assets/c09461fa-c547-4d0f-9b78-54c35219d39e" /> | **Idade:** 43 anos.<br><br>**Naturalidade:** Pirassununga - São Paulo.<br><br>**Ocupação:** Gari. | **Atribuições:** Realiza a coleta de resíduos nas lixeiras e vias públicas, recolhendo os sacos de lixo e depositando-os no caminhão de coleta. |
 | **Motivações:** Precisa acompanhar e levar o pai às unidades de saúde para realizar consultas e acompanhamento médico, devido ao alto risco de desenvolver trombose. | **Frustrações:** Dificuldade para gerenciar a vida profissional e pessoal, pois, além de enfrentar jornadas de trabalho exaustivas, precisa cuidar do pai em casa, que se recuperou de um câncer e atualmente apresenta alto risco de desenvolver trombose. | **Hobbies, história:** Almeja conseguir conciliar sua rotina de trabalho com os cuidados do pai, pois atualmente se sente sobrecarregado com as responsabilidades e busca formas de otimizar seu tempo e facilitar sua rotina. |
 
 
-| **Maria Aparecida** |  |  |
+| **Maria Aparecida** - Persona 3 |  |  |
 |:-------------------:|---|---|
 <img width="200" height="200" alt="maria" src="https://github.com/user-attachments/assets/c045f2d1-30d7-481d-9201-69cd6f4b8793" /> |  **Idade:** 67 anos.<br><br>**Naturalidade:** Poços de Caldas - Minas Gerais.<br><br>**Ocupação:** Sem ocupação remunerada, não possui renda própria e depende de auxílios financeiros. | **Atribuições:** Administrar sua rotina e suas necessidades pessoais, buscando acesso aos serviços de saúde disponíveis para realizar o tratamento de que necessita. |
 | **Motivações:** Deseja conseguir atendimento e acompanhamento para seus problemas de ansiedade e depressão, buscando melhorar sua saúde mental e sua qualidade de vida. | **Frustrações:** Não possui condições financeiras nem meios de locomoção para chegar aos locais onde estão sendo oferecidos os atendimentos pela faculdade, dificultando seu acesso ao tratamento. | **Hobbies, história:** Viúva, não possui filhos e vive sozinha. Por depender de auxílios financeiros e não possuir meios próprios de transporte, encontra dificuldades para se deslocar e ter acesso aos atendimentos de saúde de que necessita. |
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
 
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 Exemplo:
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
