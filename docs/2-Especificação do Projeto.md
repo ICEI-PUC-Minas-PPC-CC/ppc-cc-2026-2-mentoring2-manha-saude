@@ -10,8 +10,13 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |CLEMILTON FERNANDES|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img width="1024" height="1024" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img width="1024" height="1024" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />|
+**Idade:** 46 anos. 
+**Naturalidade:** Congonhal - Minas Gerais. 
+**Ocupação:** Professor        |
+**Atribuições:** ministrar aulas para alunos de ensino médio no período integral e noturno em uma escola pública.
+|**Motivações:** Deseja conferir de forma rápida sobre seus níveis e melhoras no tratamento da diabetes
+|**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
 
 
 |**Camila Fiães**|           |                             | 
