@@ -10,7 +10,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |CLEMILTON FERNANDES|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img width="1024" height="1024" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />|
+<img width="200" height="200" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />|
 **Idade:** 46 anos.  **Naturalidade:** Congonhal - Minas Gerais. |      **Ocupação:** Professor                                                          |      **Atribuições:** ministrar aulas para alunos de ensino médio no período integral e noturno em uma escola pública.     |**Motivações:** Deseja conferir de forma rápida sobre seus níveis e melhoras no tratamento da diabetes    |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar durante um longo período, seus intervalos são curtos e não flexíveis o que dificluta sua ida aos postos de atendimento de saúde. Ainda, o seu problema de saúde teve um avanço muito rápido, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir atendimentos rápidos e que não atrapalhe no seu trabalho, pois há falta de profissionais que consiga exercer sua função na escola, por isso, necessita de um atendimento rápido e que não necessite de um grande deslocamento.
 
 
