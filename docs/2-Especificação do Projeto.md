@@ -41,9 +41,8 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
 | RF-001 | O sistema deverá permitir que o usuário realize atendimento remoto com um profissional de saúde por meio da cabine | ALTA |
-| RF-002 | O sistema deverá permitir que o profissional consulte e registre informações relacionadas ao acompanhamento e à evolução do tratamento do usuário durante o atendimento remoto | ALTA |
-| RF-003 | O sistema deverá permitir a realização de atendimento remoto com profissionais de saúde, incluindo acompanhamento relacionado à saúde mental | ALTA |
-| RF-004 | O sistema deverá permitir que o usuário receba orientações e acompanhamento sem a necessidade de realizar grandes deslocamentos para outras unidades de atendimento | ALTA |
+| RF-002 | O sistema deverá permitir a realização de atendimento remoto com profissionais de saúde| ALTA |
+| RF-003 | O sistema deverá permitir que o usuário receba orientações e acompanhamento sem a necessidade de realizar grandes deslocamentos para outras unidades de atendimento | ALTA |
 
 
 
@@ -53,7 +52,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
 | RNF-001 | O sistema deverá estabelecer a conexão com o profissional de saúde de forma rápida, reduzindo o tempo de espera para o atendimento | ALTA |
-| RNF-002 | A cabine deverá possuir equipamentos de áudio e vídeo com qualidade suficiente para permitir uma comunicação clara entre o usuário e o profissional | ALTA |
+| RNF-002 | A cabine deverá possuir equipamentos de áudio com qualidade suficiente para permitir uma comunicação clara entre o usuário e o profissional | ALTA |
 | RNF-003 | A cabine deverá possuir uma interface intuitiva e acessível, facilitando sua utilização por pessoas idosas ou com pouca familiaridade com tecnologia | ALTA |
 | RNF-004 | A cabine deverá oferecer privacidade adequada durante o atendimento, evitando que outras pessoas tenham acesso à conversa entre o usuário e o profissional | ALTA |
 
