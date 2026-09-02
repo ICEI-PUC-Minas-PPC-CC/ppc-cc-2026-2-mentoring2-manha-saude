@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />
 # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
