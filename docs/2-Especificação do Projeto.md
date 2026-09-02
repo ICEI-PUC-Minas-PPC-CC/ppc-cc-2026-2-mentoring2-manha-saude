@@ -32,7 +32,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | EU COMO... `PERSONA`            | QUERO/PRECISO ... `FUNCIONALIDADE`                             | PARA ... `MOTIVO/VALOR`                                              |
 | ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Clemilton Fernandes - Persona 1 | Ter acesso rápido às informações sobre meus níveis de diabetes | Acompanhar minha condição de saúde e as melhorias no meu tratamento. |
-
+| ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
  | Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
 
 
@@ -72,4 +72,3 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | RNF-005 | A cabine deverá possuir uma interface intuitiva e acessível, facilitando sua utilização por pessoas idosas ou com pouca familiaridade com tecnologia | ALTA |
 | RNF-006 | A cabine deverá oferecer privacidade adequada durante o atendimento, evitando que outras pessoas tenham acesso à conversa entre o usuário e o profissional | ALTA |
 
-| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
