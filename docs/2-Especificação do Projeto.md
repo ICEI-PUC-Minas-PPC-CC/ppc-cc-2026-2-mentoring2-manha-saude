@@ -33,8 +33,8 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Clemilton Fernandes - Persona 1| Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Clemilton Fernandes - Persona 1| Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
