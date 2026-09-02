@@ -32,8 +32,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | EU COMO... `PERSONA`            | QUERO/PRECISO ... `FUNCIONALIDADE`                             | PARA ... `MOTIVO/VALOR`                                              |
 | ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Clemilton Fernandes - Persona 1 | Ter acesso rápido às informações sobre meus níveis de diabetes | Acompanhar minha condição de saúde e as melhorias no meu tratamento. |
-| ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
- | Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
+| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
 
 
 ## Requisitos Funcionais
