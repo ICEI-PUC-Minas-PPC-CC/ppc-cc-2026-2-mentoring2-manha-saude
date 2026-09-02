@@ -8,7 +8,7 @@
 
 | **Clemilton Fernandes** |  |  |
 |:-----------------------:|---|---|
-| <img width="200" height="200" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />| **Idade:** 46 anos.<br><br>**Naturalidade:** Congonhal - Minas Gerais.<br><br>**Ocupação:** Professor | **Atribuições:** Ministrar aulas para alunos do ensino médio no período integral e noturno em uma escola pública. |
+| <img width="200" height="200" alt="IMAGEM PERSONAGEM  1" src="https://github.com/user-attachments/assets/bdf56705-5844-4669-b15f-81b942c84e7b" />| **Idade:** 46 anos.<br><br>**Naturalidade:** Poços de Caldas - Minas Gerais.<br><br>**Ocupação:** Professor | **Atribuições:** Ministrar aulas para alunos do ensino médio no período integral e noturno em uma escola pública. |
 | **Motivações:** Deseja conferir de forma rápida sobre seus níveis e melhorias em seu tratamento da diabetes. | **Frustrações:** Dificuldade para gerenciar a vida profissional e pessoal, pois trabalha durante um longo período e possui intervalos curtos e pouco flexíveis. | **Hobbies e história:** Almeja conseguir atendimentos rápidos e que não atrapalhem seu trabalho, evitando grandes deslocamentos. |
 
 
@@ -16,11 +16,10 @@
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 43 anos. **Naturalidade:** Pirassununga - São Paulo. **Ocupação:** Gari. |**Atribuição:** realiza a coleta de resíduos nas lixeiras e vias públicas, recolhendo os sacos de lixo e depositando-os no caminhão de coleta. |**Motivações:** precisa acompanhar e levar o pai às unidades de saúde para realizar consultas e acompanhamento médico, devido ao alto risco de desenvolver trombose.|**Frustações:** Dificuldade para gerenciar a vida profissional e pessoal, pois, além de enfrentar jornadas de trabalho exaustivas, ele precisa cuidar do pai em casa, que se recuperou de um câncer e atualmente apresenta alto risco de desenvolver trombose. |**Hobbies, história:** almeja conseguir conciliar sua rotina de trabalho com os cuidados do pai, pois atualmente se sente sobrecarregado com as responsabilidades e busca formas de otimizar seu tempo e facilitar sua rotina.
 
-|**Camila Fiães**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
-
+| **Maria Aparecida** |  |  |
+|:-------------------:|---|---|
+| <img width="200" height="200" alt="IMAGEM PERSONAGEM 2" src="COLE_AQUI_O_LINK_DA_IMAGEM" /> | **Idade:** 67 anos.<br><br>**Naturalidade:** Poços de Caldas - Minas Gerais.<br><br>**Ocupação:** Sem ocupação remunerada, não possui renda própria e depende de auxílios financeiros. | **Atribuições:** Administrar sua rotina e suas necessidades pessoais, buscando acesso aos serviços de saúde disponíveis para realizar o tratamento de que necessita. |
+| **Motivações:** Deseja conseguir atendimento e acompanhamento para seus problemas de ansiedade e depressão, buscando melhorar sua saúde mental e sua qualidade de vida. | **Frustrações:** Não possui condições financeiras nem meios de locomoção para chegar aos locais onde estão sendo oferecidos os atendimentos pela faculdade, dificultando seu acesso ao tratamento. | **Hobbies, história:** Viúva, não possui filhos e vive sozinha. Por depender de auxílios financeiros e não possuir meios próprios de transporte, encontra dificuldades para se deslocar e ter acesso aos atendimentos de saúde de que necessita. |
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
