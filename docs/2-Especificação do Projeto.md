@@ -48,24 +48,24 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RF-001 | O sistema deve permitir que o usuário veja as informações relacionadas do seu acompanhamento e à evolução do tratamento da diabetes | ALTA |
-| RF-002 | O sistema deve permitir que o usuário consulte seus atendimentos e informações de saúde de forma remota, reduzindo a necessidade de deslocamento até a unidade de saúde | ALTA |
+| RF-001 | O sistema deverá permitir que o usuário realize atendimento remoto com um profissional de saúde por meio da cabine | ALTA |
+| RF-002 | O sistema deverá permitir que o profissional consulte e registre informações relacionadas ao acompanhamento e à evolução do tratamento do usuário durante o atendimento remoto | ALTA |
 
 
 ### Persona 2
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RF-003 | O sistema deverá permitir que o usuário acompanhe informações de saúde de um familiar sob seus cuidados | ALTA |
-| RF-004 | O sistema deverá permitir que o usuário consulte informações sobre consultas, atendimentos e acompanhamento médico do familiar | ALTA |
+| RF-003 | O sistema deverá permitir a realização de atendimento remoto para usuários ou familiares que necessitem de acompanhamento médico | ALTA |
+| RF-004 | O sistema deverá permitir que o profissional consulte informações anteriores do paciente e registre as orientações fornecidas durante o atendimento | ALTA |
 
 
 ### Persona 3
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RF-005 | O sistema deverá permitir que o usuário consulte informações sobre atendimentos e acompanhamento relacionados à saúde mental | ALTA |
-| RF-006 | O sistema deverá permitir que o usuário solicite ou acompanhe atendimentos de saúde de forma remota, diminuindo a necessidade de deslocamento | ALTA |
+| RF-005 | O sistema deverá permitir a realização de atendimento remoto com profissionais de saúde, incluindo acompanhamento relacionado à saúde mental | ALTA |
+| RF-006 | O sistema deverá permitir que o usuário receba orientações e acompanhamento sem a necessidade de realizar grandes deslocamentos para outras unidades de atendimento | ALTA |
 
 
 
@@ -75,24 +75,24 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RNF-001 | O sistema deve apresentar as informações solicitadas pelo usuário de forma rápida, com tempo de resposta de no máximo 3 segundos | ALTA |
-| RNF-002 | O sistema deve ser responsivo, permitindo sua utilização adequada em computadores, tablets e celulares | ALTA |
+| RNF-001 | O sistema deverá estabelecer a conexão com o profissional de saúde de forma rápida, reduzindo o tempo de espera para o atendimento | ALTA |
+| RNF-002 | A cabine deverá possuir equipamentos de áudio e vídeo com qualidade suficiente para permitir uma comunicação clara entre o usuário e o profissional | ALTA |
 
 
 ### Persona 2
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RNF-003 | O sistema deve possuir uma interface simples e organizada, permitindo que as informações de saúde do familiar sejam localizadas com facilidade | ALTA |
-| RNF-004 | O sistema deve garantir a segurança e a privacidade das informações de saúde armazenadas e acessadas pelo usuário | ALTA |
+| RNF-003 | O sistema deverá possuir uma interface simples e de fácil utilização, permitindo que o usuário inicie o atendimento com poucas etapas | ALTA |
+| RNF-004 | O sistema deverá garantir a segurança e a privacidade das informações pessoais e de saúde compartilhadas durante o atendimento remoto | ALTA |
 
 
 ### Persona 3
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RNF-005 | O sistema deve possuir uma interface simples e intuitiva, facilitando sua utilização por usuários idosos ou com pouca familiaridade com recursos digitais | ALTA |
-| RNF-006 | O sistema deve funcionar adequadamente em dispositivos móveis e possuir uma interface adaptável a diferentes tamanhos de tela | MÉDIA |
+| RNF-005 | A cabine deverá possuir uma interface intuitiva e acessível, facilitando sua utilização por pessoas idosas ou com pouca familiaridade com tecnologia | ALTA |
+| RNF-006 | A cabine deverá oferecer privacidade adequada durante o atendimento, evitando que outras pessoas tenham acesso à conversa entre o usuário e o profissional | ALTA |
 ### Artefatos para levantamento de dados
 
 Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
