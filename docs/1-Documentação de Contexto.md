@@ -16,7 +16,7 @@ Além de contribuir para a redução das faltas às consultas, a iniciativa est�
 
 ## Objetivos
 
-Objetivo geral
+Objetivo principal
 
 Reduzir o índice de não comparecimento às consultas gratuitas ofertadas pela PUC por meio da implantação de cabines de teleconsulta em unidades de saúde da região, aproximando o atendimento médico dos pacientes que enfrentam barreiras de deslocamento.
 
@@ -26,7 +26,14 @@ a) Identificar e especificar os requisitos mínimos de hardware e de tratamento 
 
 b) Mensurar o consumo de banda larga de uma teleconsulta real, utilizando o aplicativo PEC como cenário de teste, a fim de dimensionar a infraestrutura de rede necessária em cada unidade;
 
-c) Estimar a capacidade de atendimento por cabine, em número de pacientes por turno e por dia, definindo quantas cabines seriam necessárias para absorver a demanda atual.
+c) Estimar a capacidade de atendimento por cabine, em número de pacientes por turno e por dia, definindo quantas cabines seriam necessárias para absorver a demanda atual, considerando o absenteísmo de cada região:
+Zona Leste	10
+Zona Oeste	9
+Zona Sul	8
+Centro	6
+Zona Norte	6
+Total urbano	39
+
 
 ## Justificativa
 
