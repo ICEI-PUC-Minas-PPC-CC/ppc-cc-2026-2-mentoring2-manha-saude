@@ -48,8 +48,8 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RF-001 | O sistema deverá permitir que o usuário consulte informações relacionadas ao acompanhamento e à evolução do tratamento da diabetes | ALTA |
-| RF-002 | O sistema deverá permitir que o usuário consulte seus atendimentos e informações de saúde de forma remota, reduzindo a necessidade de deslocamento até a unidade de saúde | ALTA |
+| RF-001 | O sistema deve permitir que o usuário veja as informações relacionadas do seu acompanhamento e à evolução do tratamento da diabetes | ALTA |
+| RF-002 | O sistema deve permitir que o usuário consulte seus atendimentos e informações de saúde de forma remota, reduzindo a necessidade de deslocamento até a unidade de saúde | ALTA |
 
 
 ### Persona 2
