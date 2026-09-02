@@ -33,13 +33,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Clemilton Fernandes - Persona 1 | Ter acesso rápido às informações sobre meus níveis de diabetes | Acompanhar minha condição de saúde e as melhorias no meu tratamento. |
 
-| EU COMO... `PERSONA`     | QUERO/PRECISO ... `FUNCIONALIDADE`                       | PARA ... `MOTIVO/VALOR`                                                                        |
-| ------------------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Samuel Silva - Persona 2 | Agendar e acompanhar os atendimentos de saúde do meu pai | Facilitar o acompanhamento médico e organizar minha rotina de trabalho e cuidados com meu pai. |
-
-| EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`                               | PARA ... `MOTIVO/VALOR`                                                            |
-| --------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
+ | Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
 
 
 ## Requisitos Funcionais
@@ -50,14 +44,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |----|-------------------------|------------|
 | RF-001 | O sistema deverá permitir que o usuário realize atendimento remoto com um profissional de saúde por meio da cabine | ALTA |
 | RF-002 | O sistema deverá permitir que o profissional consulte e registre informações relacionadas ao acompanhamento e à evolução do tratamento do usuário durante o atendimento remoto | ALTA |
-
-
-### Persona 2
-
-| ID | Descrição do Requisito | Prioridade |
-|----|-------------------------|------------|
-| RF-003 | O sistema deverá permitir a realização de atendimento remoto para usuários ou familiares que necessitem de acompanhamento médico | ALTA |
-| RF-004 | O sistema deverá permitir que o profissional consulte informações anteriores do paciente e registre as orientações fornecidas durante o atendimento | ALTA |
 
 
 ### Persona 3
@@ -79,22 +65,11 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | RNF-002 | A cabine deverá possuir equipamentos de áudio e vídeo com qualidade suficiente para permitir uma comunicação clara entre o usuário e o profissional | ALTA |
 
 
-### Persona 2
-
-| ID | Descrição do Requisito | Prioridade |
-|----|-------------------------|------------|
-| RNF-003 | O sistema deverá possuir uma interface simples e de fácil utilização, permitindo que o usuário inicie o atendimento com poucas etapas | ALTA |
-| RNF-004 | O sistema deverá garantir a segurança e a privacidade das informações pessoais e de saúde compartilhadas durante o atendimento remoto | ALTA |
-
-
 ### Persona 3
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
 | RNF-005 | A cabine deverá possuir uma interface intuitiva e acessível, facilitando sua utilização por pessoas idosas ou com pouca familiaridade com tecnologia | ALTA |
 | RNF-006 | A cabine deverá oferecer privacidade adequada durante o atendimento, evitando que outras pessoas tenham acesso à conversa entre o usuário e o profissional | ALTA |
-### Artefatos para levantamento de dados
 
-Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
-
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
+| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
