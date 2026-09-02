@@ -30,21 +30,21 @@
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 Exemplo:
+| EU COMO... `PERSONA`            | QUERO/PRECISO ... `FUNCIONALIDADE`                              | PARA ... `MOTIVO/VALOR`                                                                 |
+| ------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Clemilton Fernandes - Persona 1 | Ter acesso rápido às informações sobre meus níveis de diabetes  | Acompanhar minha condição de saúde e as melhorias no meu tratamento.                    |
+| Clemilton Fernandes - Persona 1 | Otimizar meu tempo e reduzir o tempo de espera nos atendimentos | Conseguir realizar meu acompanhamento de saúde sem prejudicar minha rotina de trabalho. |
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Clemilton Fernandes - Persona 1| Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Clemilton Fernandes - Persona 1| Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+| EU COMO... `PERSONA`     | QUERO/PRECISO ... `FUNCIONALIDADE`                                         | PARA ... `MOTIVO/VALOR`                                                                        |
+| ------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Samuel Silva - Persona 2 | Agendar e acompanhar os atendimentos de saúde do meu pai                   | Facilitar o acompanhamento médico e organizar minha rotina de trabalho e cuidados com meu pai. |
+| Samuel Silva - Persona 2 | Ter acesso às informações e orientações sobre o estado de saúde do meu pai | Acompanhar seu tratamento e saber quais cuidados são necessários devido ao risco de trombose.  |
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+| EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`                               | PARA ... `MOTIVO/VALOR`                                                                              |
+| --------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte.                   |
+| Maria Aparecida - Persona 3 | Agendar e acompanhar meus atendimentos de saúde de forma simples | Conseguir realizar meu acompanhamento para ansiedade e depressão e melhorar minha qualidade de vida. |
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
