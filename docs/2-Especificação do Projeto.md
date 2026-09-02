@@ -42,55 +42,57 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
 
 
+## Requisitos Funcionais
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+### Persona 1
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
-## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RF-001 | O sistema deverá permitir que o usuário consulte informações relacionadas ao acompanhamento e à evolução do tratamento da diabetes | ALTA |
+| RF-002 | O sistema deverá permitir que o usuário consulte seus atendimentos e informações de saúde de forma remota, reduzindo a necessidade de deslocamento até a unidade de saúde | ALTA |
 
 
-### Requisitos não Funcionais
+### Persona 2
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RF-003 | O sistema deverá permitir que o usuário acompanhe informações de saúde de um familiar sob seus cuidados | ALTA |
+| RF-004 | O sistema deverá permitir que o usuário consulte informações sobre consultas, atendimentos e acompanhamento médico do familiar | ALTA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+### Persona 3
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RF-005 | O sistema deverá permitir que o usuário consulte informações sobre atendimentos e acompanhamento relacionados à saúde mental | ALTA |
+| RF-006 | O sistema deverá permitir que o usuário solicite ou acompanhe atendimentos de saúde de forma remota, diminuindo a necessidade de deslocamento | ALTA |
 
+
+
+## Requisitos Não Funcionais
+
+### Persona 1
+
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RNF-001 | O sistema deve apresentar as informações solicitadas pelo usuário de forma rápida, com tempo de resposta de no máximo 3 segundos | ALTA |
+| RNF-002 | O sistema deve ser responsivo, permitindo sua utilização adequada em computadores, tablets e celulares | ALTA |
+
+
+### Persona 2
+
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RNF-003 | O sistema deve possuir uma interface simples e organizada, permitindo que as informações de saúde do familiar sejam localizadas com facilidade | ALTA |
+| RNF-004 | O sistema deve garantir a segurança e a privacidade das informações de saúde armazenadas e acessadas pelo usuário | ALTA |
+
+
+### Persona 3
+
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RNF-005 | O sistema deve possuir uma interface simples e intuitiva, facilitando sua utilização por usuários idosos ou com pouca familiaridade com recursos digitais | ALTA |
+| RNF-006 | O sistema deve funcionar adequadamente em dispositivos móveis e possuir uma interface adaptável a diferentes tamanhos de tela | MÉDIA |
 ### Artefatos para levantamento de dados
 
 Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
