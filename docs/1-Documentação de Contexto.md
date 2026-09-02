@@ -44,7 +44,14 @@ Total urbano:39
 
 ## Justificativa
 
-   O acesso à saúde é um direito para todos e, por causa disso, há o acesso gratuito à medicina, que, no caso das pessoas de baixa renda, seria o SUS. Diante desse contexto, existem, em várias partes do Brasil, hospitais que trabalham com esse tipo de atendimento, inclusive em Poços de Caldas, na faculdade PUC. Porém, é visto que muitos pacientes não comparecem às consultas marcadas. Estudos publicados no Journal of School of Nursing – University of São Paulo [X] apontam que 29% das faltas ocorrem por causa dos meios de transporte e 16,3% por causa de problemas financeiros. Diante desse problema, é importante resolver esses desafios, pois, na ODS 3 da Agenda 2030, é descrito que todos precisam ter um bem-estar de qualidade. Logo, desenvolver um projeto que diminua esses desafios pode contribuir para que os brasileiros tenham uma vida melhor no seu dia a dia. 
+   O acesso à saúde é um direito para todos e, por causa disso, há o acesso gratuito à medicina, que, no caso das pessoas de baixa renda, seria o SUS. Diante desse contexto, existem, em várias partes do Brasil, hospitais que trabalham com esse tipo de atendimento, inclusive em Poços de Caldas, na faculdade PUC. Porém, é visto que muitos pacientes não comparecem às consultas marcadas. 
+   Estudos publicados pela National Library of Medicine [1] apontam que "As barreiras de transporte são frequentemente citadas como obstáculos ao acesso à saúde. Essas barreiras levam ao reagendamento ou à perda de consultas, ao atraso no atendimento e à falta ou ao atraso no uso de medicamentos". Nos Estados Unidos, estudos descobriram que as barreiras de transporte afetam o acesso aos cuidados de saúde em apenas 3% ou em até 67% da população amostrada.
+   
+   Diante desse problema, é importante resolver esses desafios, pois, na ODS 3 da Agenda 2030, é descrito que todos precisam ter um bem-estar de qualidade. Logo, desenvolver um projeto que diminua esses desafios pode contribuir para que os brasileiros tenham uma vida melhor no seu dia a dia. 
+
+   
+ // Journal of School of Nursing – University of São Paulo [X] apontam que 29% das faltas ocorrem por causa dos meios de transporte e 16,3% por causa de problemas financeiros.
+  
 
    Portanto, a telemedicina se apresenta como uma alternativa viável para reduzir o número de faltas ás consultas médicas, uma vez que elimina a necessidade de deslocamento e diminui os custos associados ao atendimento presencial, fatores que, juntos, respondem por quase metade das ausências registradas. Ao aproximar o atendimento de saúde daqueles que enfrentam barreiras de transporte e de renda, o projeto contribui não apenas para o ODS 3, mas também para o ODS 10 da Agenda 2030, que trata da redução das desigualdades, visto que garante que pessoas em situação de vulnerabilidade socioeconômica tenham as mesmas opurtunidades de acompanhamento médico que a população em geral. Dessa forma, a telemedicina representa um passo concreto rumo a uma sociedade mais justa, inclusiva e saudável. 
 
