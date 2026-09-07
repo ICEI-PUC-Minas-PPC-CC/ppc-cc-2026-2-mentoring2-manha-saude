@@ -40,7 +40,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | RF-001 | O sistema deverá permitir que o usuário realize atendimento remoto com um profissional de saúde por meio da cabine | ALTA |
 | RF-002 | O sistema deverá permitir a realização de atendimento remoto com profissionais de saúde| ALTA |
 | RF-003 | O sistema deverá permitir que o usuário receba orientações e acompanhamento sem a necessidade de realizar grandes deslocamentos para outras unidades de atendimento | ALTA |
-
+| RF-004 | O sistema deverá disponibilizar um smartwatch integrado à cabine, permitindo que o profissional de saúde acesse dados como batimentos cardíacos do paciente durante a teleconsulta | ALTA |
 
 
 ## Requisitos Não Funcionais
