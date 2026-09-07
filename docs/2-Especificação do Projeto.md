@@ -13,10 +13,12 @@
 
 
 
-| **Samuel Silva** - Persona 2 |  |  |
+| **Antônio Silva** - Persona 2 |  |  |
 |:----------------:|---|---|
-<img width="1024" height="1024" alt="firmimno" src="https://github.com/user-attachments/assets/c09461fa-c547-4d0f-9b78-54c35219d39e" /> | **Idade:** 57 anos.<br><br>**Naturalidade:** Pirassununga - São Paulo.<br><br>**Ocupação:** Gari. | **Atribuições:** Realiza a coleta de resíduos nas lixeiras e vias públicas, recolhendo os sacos de lixo e depositando-os no caminhão de coleta. |
-| **Motivações:** Precisa acompanhar e levar o pai às unidades de saúde para realizar consultas e acompanhamento médico, devido ao alto risco de desenvolver trombose. | **Frustrações:** Dificuldade para gerenciar a vida profissional e pessoal, pois, além de enfrentar jornadas de trabalho exaustivas, precisa cuidar do pai em casa, que se recuperou de um câncer e atualmente apresenta alto risco de desenvolver trombose. Além de morar longe do local das consultas, o que faz pegar mais de um meio de locomoção a fim de chegar no local para ser atendido. | **Hobbies, história:** Almeja conseguir conciliar sua rotina de trabalho com os cuidados do pai, pois atualmente se sente sobrecarregado com as responsabilidades e busca formas de otimizar seu tempo e facilitar sua rotina. E de conseguir ser atendido no local mais próximo a sua casa para não ter que perder muito tempo até chegar no local de atendimento designado do auxílio.  |
+<img width="512" height="512" alt="antonio" src="https://github.com/user-attachments/assets/e656ade9-5b23-4677-b99b-fe90466738ca" />
+
+ | **Idade:** 72 anos.<br><br>**Naturalidade:** Pirassununga - São Paulo.<br><br>**Ocupação:** Aposentado. | **Atribuições:** Cuidar da própria casa e rotina diária, sem exercer atividade remunerada. |
+| **Motivações:** Deseja manter o acompanhamento contínuo de sua saúde, especialmente da hipertensão e das articulações, sem depender de terceiros para se deslocar. | **Frustrações:** Não consegue subir em ônibus sozinho, anda devagar e com apoio de bengala, o que o torna dependente de familiares para ir às consultas; quando ninguém pode ajudá-lo, falta ao atendimento. | **Hobbies, história:** Mora sozinho, gosta de cuidar do quintal e ouvir rádio em casa. Por causa da mobilidade reduzida, encontra dificuldades para se deslocar até os locais de atendimento, precisando de trajetos curtos, sem escadas e próximos de sua residência. |
 
 
 | **Maria Aparecida** - Persona 3 |  |  |
@@ -32,8 +34,8 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | EU COMO... `PERSONA`            | QUERO/PRECISO ... `FUNCIONALIDADE`                             | PARA ... `MOTIVO/VALOR`                                              |
 | ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Clemilton Fernandes - Persona 1 | Ter acesso rápido às informações sobre meus níveis de diabetes | Acompanhar minha condição de saúde e as melhorias no meu tratamento. |
-| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Facilitar meu acesso ao tratamento mesmo sem possuir meios próprios de transporte. |
-
+| Antônio Silva - Persona 2 | Ter acesso a atendimentos de saúde em um local próximo, sem depender da ajuda de terceiros para me deslocar | Continuar meu acompanhamento médico sem risco de quedas ou necessidade de ajuda de terceiros para me deslocar. |
+| Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Manter meu acompanhamento médico contínuo, evitando o desgaste físico e faltas às consultas. |
 
 ## Requisitos Funcionais
 
