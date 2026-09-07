@@ -12,21 +12,16 @@
 | **Motivações:** Deseja conferir de forma rápida sobre seus níveis e melhorias em seu tratamento da diabetes. | **Frustrações:** Dificuldade para gerenciar a vida profissional e pessoal, pois trabalha durante um longo período e possui intervalos curtos e pouco flexíveis. | **Hobbies e história:** Almeja conseguir atendimentos rápidos e que não atrapalhem seu trabalho, evitando grandes deslocamentos. |
 
 
-
 | **Antônio Silva** - Persona 2 |  |  |
 |:----------------:|---|---|
-<img width="512" height="512" alt="antonio" src="https://github.com/user-attachments/assets/e656ade9-5b23-4677-b99b-fe90466738ca" />
-
- | **Idade:** 72 anos.<br><br>**Naturalidade:** Pirassununga - São Paulo.<br><br>**Ocupação:** Aposentado. | **Atribuições:** Cuidar da própria casa e rotina diária, sem exercer atividade remunerada. |
+| <img width="200" height="200" alt="antonio" src="https://github.com/user-attachments/assets/e656ade9-5b23-4677-b99b-fe90466738ca" /> | **Idade:** 72 anos.<br><br>**Naturalidade:** Pirassununga - São Paulo.<br><br>**Ocupação:** Aposentado. | **Atribuições:** Cuidar da própria casa e rotina diária, sem exercer atividade remunerada. |
 | **Motivações:** Deseja manter o acompanhamento contínuo de sua saúde, especialmente da hipertensão e das articulações, sem depender de terceiros para se deslocar. | **Frustrações:** Não consegue subir em ônibus sozinho, anda devagar e com apoio de bengala, o que o torna dependente de familiares para ir às consultas; quando ninguém pode ajudá-lo, falta ao atendimento. | **Hobbies, história:** Mora sozinho, gosta de cuidar do quintal e ouvir rádio em casa. Por causa da mobilidade reduzida, encontra dificuldades para se deslocar até os locais de atendimento, precisando de trajetos curtos, sem escadas e próximos de sua residência. |
 
 
 | **Maria Aparecida** - Persona 3 |  |  |
 |:-------------------:|---|---|
-<img width="200" height="200" alt="maria" src="https://github.com/user-attachments/assets/c045f2d1-30d7-481d-9201-69cd6f4b8793" /> |  **Idade:** 67 anos.<br><br>**Naturalidade:** Poços de Caldas - Minas Gerais.<br><br>**Ocupação:** Sem ocupação remunerada, não possui renda própria e depende de auxílios financeiros. | **Atribuições:** Administrar sua rotina e suas necessidades pessoais, buscando acesso aos serviços de saúde disponíveis para realizar o tratamento de que necessita. |
+| <img width="200" height="200" alt="maria" src="https://github.com/user-attachments/assets/c045f2d1-30d7-481d-9201-69cd6f4b8793" /> | **Idade:** 67 anos.<br><br>**Naturalidade:** Poços de Caldas - Minas Gerais.<br><br>**Ocupação:** Sem ocupação remunerada, não possui renda própria e depende de auxílios financeiros. | **Atribuições:** Administrar sua rotina e suas necessidades pessoais, buscando acesso aos serviços de saúde disponíveis para realizar o tratamento de que necessita. |
 | **Motivações:** Deseja conseguir atendimento e acompanhamento para seus problemas de ansiedade e depressão, buscando melhorar sua saúde mental e sua qualidade de vida. | **Frustrações:** Não possui condições financeiras nem meios de locomoção para chegar aos locais onde estão sendo oferecidos os atendimentos pela faculdade, dificultando seu acesso ao tratamento. | **Hobbies, história:** Viúva, não possui filhos e vive sozinha. Por depender de auxílios financeiros e não possuir meios próprios de transporte, encontra dificuldades para se deslocar e ter acesso aos atendimentos de saúde de que necessita. |
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
