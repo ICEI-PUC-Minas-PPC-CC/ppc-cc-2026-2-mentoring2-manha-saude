@@ -14,17 +14,64 @@ O que oferece: A Portal oferece teleconsulta, telediagnóstico, integração ent
 
 Requisitos mínimos (software e infraestrutura):
 
+Computador/notebook	16 GB RAM, SSD 512 GB    	R$ 5.500
+
+Monitor 24" Full HD	    R$ 900
+
+Webcam Full HD	1080p	    R$ 650
+
+Headset profissional, microfone com redução de ruído    	R$ 700
+
+Nobreak		R$ 850
+
+Rede/cabos/adaptadores	  	R$ 500
+
+Estetoscópio digital	R$ 5.500
+
+Otoscópio digital	R$ 6.500
+
+Monitor multiparamétrico	R$ 12.000
+
+ECG 12 derivações	R$ 7.000
+
+TOTAL	aproximadamente R$ 45.000
+
 ###SOFTWARE 2:
 
-Nome:
+Nome: Conexa Saúde
 
-Link:
+Link:https://www.conexasaude.com.br/
 
-Preço:
+Preço: Para o plano de 100 usuários, o custo seria de aproximadamente R$ 18.000
 
-O que oferece:
+O que oferece: Teleconsulta por vídeo, pronto atendimento digital, consultas com especialistas, prontuário eletrônico, triagem/acompanhamento do paciente e armazenamento de informações clínicas. A plataforma mantém no prontuário informações como comorbidades, medicamentos, alergias e histórico de especialidades, além dos recursos de câmera e microfone usados na consulta.
 
 Requisitos mínimos (software e infraestrutura):
+Software Conexa Saúde	Teleconsulta, prontuário e atendimento digital		R$ 1.490/mês*
+
+Computador/notebook	16 GB RAM, SSD 512 GB    	R$ 4.800
+
+Monitor 24" Full HD		R$ 700
+
+Webcam Full HD	1080p    	R$ 450
+
+Headset USB	Microfone com boa redução de ruído    	R$ 350
+
+Nobreak     	R$ 740
+
+Rede/cabeamento	    	R$ 300
+
+Internet fibra	  	≈ R$ 300/mês
+
+Estetoscópio digital Eko CORE 500	Digital    	≈ R$ 5.359
+
+Otoscópio Digital SyncVision Full HD    	≈ R$ 6.500
+
+Monitor multiparamétrico	ECG    	≈ R$ 7.000
+
+Eletrocardiógrafo 12 derivações	ECG digital compatível com PC	    ≈ R$ 7.500
+
+TOTAL aproximadamente R$ 35.000
 
 ###SOFTWARE 3:
 
