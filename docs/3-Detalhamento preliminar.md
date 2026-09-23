@@ -66,30 +66,31 @@ Requisitos mínimos (software e infraestrutura): é um sistema em nuvem, acessad
 
 
 
-###SOFTWARE 5:
+## SOFTWARE 5:
 
-Nome:
+Nome: Doutor ao Vivo – Estação de Saúde Digital
 
-Link:
+Link: https://doutoraovivo.com.br/totem-de-telemedicina/
 
-Preço:
+Preço: Não informado publicamente no site. É necessário entrar em contato com a empresa e solicitar orçamento. Não é gratuito.
 
-O que oferece:
+O que oferece: Estação para triagem e teleconsulta, com recursos para aferição de pressão arterial, batimentos cardíacos, oxigenação sanguínea e temperatura corporal. Também oferece videoatendimento, prontuário eletrônico, prescrições, exames, atestados, agendamento e integração das informações coletadas durante o atendimento.
 
-Requisitos mínimos (software e infraestrutura):
+Requisitos mínimos (software e infraestrutura): Necessita de conexão com a Internet e utiliza a plataforma própria da Doutor ao Vivo. O software é proprietário, mas permite personalização da identidade visual e integração por API. O site informa a utilização de dispositivos médicos conectados para aferição de sinais vitais, porém não informa publicamente se computador, TV, webcam e microfone são fornecidos separadamente junto com a estação.
+
+## SOFTWARE 6:
+
+Nome: Telemedicina Morsch
+
+Link: https://telemedicinamorsch.com.br/
+
+Preço: Não possui preço único divulgado. O valor varia de acordo com os serviços, quantidade de exames e equipamentos contratados. Alguns equipamentos podem ser disponibilizados em comodato mediante contratação do serviço.
+
+O que oferece: Plataforma de telemedicina, teleconsulta e telediagnóstico. Pode ser utilizada com eletrocardiógrafo, Holter, MAPA de pressão arterial, eletroencefalógrafo e espirômetro. Os exames podem ser enviados pela Internet para análise e emissão de laudos por especialistas.
+
+Requisitos mínimos (software e infraestrutura): É necessário possuir computador ou notebook com acesso à Internet para acessar a plataforma. O sistema funciona online por navegador, utilizando login e senha. O software é proprietário e não há indicação de acesso ao código-fonte. A Morsch pode fornecer equipamentos médicos em comodato, como eletrocardiógrafo, Holter, MAPA, eletroencefalógrafo e espirômetro. Também é possível utilizar equipamentos próprios compatíveis. O site não informa que TV, webcam, microfone ou notebook sejam fornecidos como parte padrão do kit.
 
 
-###SOFTWARE 6:
-
-Nome:
-
-Link:
-
-Preço:
-
-O que oferece:
-
-Requisitos mínimos (software e infraestrutura):
 
 
 
