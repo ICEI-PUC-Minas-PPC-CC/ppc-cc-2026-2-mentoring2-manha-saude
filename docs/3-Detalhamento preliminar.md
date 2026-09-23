@@ -115,27 +115,28 @@ Requisitos mínimos (software e infraestrutura): é um sistema em nuvem, acessad
 
 ## SOFTWARE 5:
 
-Nome: Doutor ao Vivo – Estação de Saúde Digital
+Nome: Plataforma de Telesaúde + Cabine com Kit – Prefeitura de Ipatinga/MG
 
-Link: https://doutoraovivo.com.br/totem-de-telemedicina/
+Link: https://app.licitardigital.com.br/pesquisa/?idE=a420c63665fc235187d5f228d1cfa17b
 
-Preço: Não informado publicamente no site. É necessário entrar em contato com a empresa e solicitar orçamento. Não é gratuito.
+Preço: O edital apresenta valor de referência de R$ 18.786,67 por cabine com kit. A infraestrutura completa tem referência de R$ 846,67 por unidade, e a licença mensal da plataforma custa R$ 3.483,33 por unidade. Esses valores são referências de contratação pública e podem variar.
 
-O que oferece: Estação para triagem e teleconsulta, com recursos para aferição de pressão arterial, batimentos cardíacos, oxigenação sanguínea e temperatura corporal. Também oferece videoatendimento, prontuário eletrônico, prescrições, exames, atestados, agendamento e integração das informações coletadas durante o atendimento.
+O que oferece: Plataforma de teleconsulta integrada a uma cabine de atendimento. O kit pode incluir computador, TV, webcam com microfone, teclado, mouse, nobreak, conexão com a Internet e equipamentos médicos conectados. A solução permite coleta e transmissão de dados como pressão arterial, saturação de oxigênio, frequência cardíaca, temperatura e glicemia, além de exames como ECG, ausculta, otoscopia e dermatoscopia.
 
-Requisitos mínimos (software e infraestrutura): Necessita de conexão com a Internet e utiliza a plataforma própria da Doutor ao Vivo. O software é proprietário, mas permite personalização da identidade visual e integração por API. O site informa a utilização de dispositivos médicos conectados para aferição de sinais vitais, porém não informa publicamente se computador, TV, webcam e microfone são fornecidos separadamente junto com a estação.
+Requisitos mínimos (software e infraestrutura): Computador com processador de no mínimo quatro núcleos, 4 GB de memória RAM, SSD de 240 GB e Windows 10 Pro 64 bits ou superior. Webcam de pelo menos 720p com microfone integrado, TV, conexão com a Internet, teclado, mouse e nobreak. A plataforma funciona por licença de uso e pode possuir personalização visual, porém não é apresentada como software de código aberto.
+
 
 ## SOFTWARE 6:
 
-Nome: Telemedicina Morsch
+Nome: Plataforma de Telemedicina + Kit Básico de Atendimento – Prefeitura de Uberlândia/MG
 
-Link: https://telemedicinamorsch.com.br/
+Link: https://weblicitacoes.uberlandia.mg.gov.br/weblicitacoes/f/n/licitacoesdetalhescon?codigoEmpresa=1&evento=y&licitacao=PE+342%2F2026&modoJanelaPlc=popup
 
-Preço: Não possui preço único divulgado. O valor varia de acordo com os serviços, quantidade de exames e equipamentos contratados. Alguns equipamentos podem ser disponibilizados em comodato mediante contratação do serviço.
+Preço: O edital apresenta valor de referência de R$ 51.897,53 por unidade da licença SaaS da plataforma, R$ 2.374,38 por unidade do totem de autoatendimento e R$ 157,00 por unidade de locação do Kit Básico de Atendimento. Os valores são referências de contratação pública e não representam necessariamente preços de varejo.
 
-O que oferece: Plataforma de telemedicina, teleconsulta e telediagnóstico. Pode ser utilizada com eletrocardiógrafo, Holter, MAPA de pressão arterial, eletroencefalógrafo e espirômetro. Os exames podem ser enviados pela Internet para análise e emissão de laudos por especialistas.
+O que oferece: Plataforma de telemedicina com teleconsultas, transmissão de áudio e vídeo em tempo real, configuração do sistema, suporte, treinamento e integração com sistemas de saúde. A solução também prevê totem de autoatendimento e kit convencional com microcomputador completo preparado para consultas remotas.
 
-Requisitos mínimos (software e infraestrutura): É necessário possuir computador ou notebook com acesso à Internet para acessar a plataforma. O sistema funciona online por navegador, utilizando login e senha. O software é proprietário e não há indicação de acesso ao código-fonte. A Morsch pode fornecer equipamentos médicos em comodato, como eletrocardiógrafo, Holter, MAPA, eletroencefalógrafo e espirômetro. Também é possível utilizar equipamentos próprios compatíveis. O site não informa que TV, webcam, microfone ou notebook sejam fornecidos como parte padrão do kit.
+Requisitos mínimos (software e infraestrutura): Necessita de conexão com a Internet e equipamento com capacidade para realizar chamadas de áudio e vídeo. A solução prevê microcomputador completo, plataforma Web e aplicativo, além de conectividade por Wi-Fi ou Ethernet. O software funciona no modelo SaaS, permitindo personalização da identidade visual e integração com outros sistemas, mas não há indicação de acesso ao código-fonte para modificações diretas.
 
 
 
