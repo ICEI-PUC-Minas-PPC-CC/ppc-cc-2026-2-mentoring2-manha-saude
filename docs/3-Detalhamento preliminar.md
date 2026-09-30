@@ -1,6 +1,6 @@
 # Detalhamento preliminar
 
-1) Identificar os recursos tecnológicos disponibilizados pela PUC Minas para realização das teleconsultas.
+**1) Identificar os recursos tecnológicos disponibilizados pela PUC Minas para realização das teleconsultas.**
 
 # SOFTWARE 1
 
