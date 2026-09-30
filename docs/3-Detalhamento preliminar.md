@@ -1,6 +1,6 @@
 # Detalhamento preliminar
 
-## 1) Identificar os recursos tecnológicos disponibilizados pela PUC Minas para realização das teleconsultas
+## 1) Identificar os recursos tecnológicos disponibilizados pela PUC Minas para realização das teleconsultas.
 
 # SOFTWARE 1
 
@@ -137,8 +137,19 @@ A teleconsulta ilimitada só vem no Premium. Nos outros planos ela sai por mais 
 
 **Requisitos mínimos (software e infraestrutura):** Necessita de conexão com a Internet e equipamento com capacidade para realizar chamadas de áudio e vídeo. A solução prevê microcomputador completo, plataforma Web e aplicativo, além de conectividade por Wi-Fi ou Ethernet. O software funciona no modelo SaaS, permitindo personalização da identidade visual e integração com outros sistemas, mas não há indicação de acesso ao código-fonte para modificações diretas.
 
+Falta a planilha e os chardware que o FAbiano falou que tem.
 
 
+
+##2) Analisar as características necessárias para o ambiente físico da teleconsulta.
+
+Perguntas e respostas das reunião e print da mesma.
+
+
+
+##3) Elaborar uma representação preliminar do ambiente de teleconsulta.
+
+Desenho da planta.
 
 
 
