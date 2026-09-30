@@ -142,13 +142,14 @@ Falta a planilha e os hardware que o Fabiano falou que tem.
 
 
 
-2) Analisar as características necessárias para o ambiente físico da teleconsulta.
+**2) Analisar as características necessárias para o ambiente físico da teleconsulta.**
 
 Perguntas e respostas das reunião e print da mesma.
 
 
 
-3) Elaborar uma representação preliminar do ambiente de teleconsulta.
+**3) Elaborar uma representação preliminar do ambiente de teleconsulta.**
+
 Desenho da planta.
 
 
