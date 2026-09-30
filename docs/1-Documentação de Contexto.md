@@ -18,15 +18,17 @@ Além de contribuir para a redução das faltas às consultas, a iniciativa est�
 
 Objetivo principal
  
-  Implantação de cabines de teleconsulta em unidades de saúde da região, aproximando o atendimento médico dos pacientes que enfrentam barreiras de deslocamento e financeiro.
+  Auxiliar no estudo sobre requisitos técnicos e físicos para a implantação de cabines de teleconsulta em unidades de saúde da região, aproximando o atendimento médico dos pacientes que enfrentam barreiras de deslocamento e financeiro.
   
 Objetivos específicos
 
-a) Identificar e especificar os requisitos mínimos de hardware e de tratamento acústico das cabines, definindo uma configuração padrão que atenda à necessidade clínica sem superdimensionar componentes;
+a) Pesquisar e especificar os requisitos do espaço físico destinado à cabine (dimensões mínimas, ventilação, iluminação, acessibilidade), definindo um modelo de ambiente que possa ser replicado nas UBSs;
 
-b) Mensurar o consumo de banda larga de uma teleconsulta real, utilizando o aplicativo PEC como cenário de teste, a fim de dimensionar a infraestrutura de rede necessária em cada unidade;
+b) Identificar e especificar os requisitos mínimos de hardware, definindo uma configuração padrão que atenda à necessidade clínica sem superdimensionar componentes;
 
-c) Estimar a capacidade de atendimento por cabine, em número de pacientes por turno e por dia, definindo quantas cabines seriam necessárias para absorver a demanda atual, considerando o absenteísmo de cada região:
+c) Mensurar o consumo de banda de uma teleconsulta, utilizando o aplicativo e-SUS APS como cenário de teste, a fim de estimar a infraestrutura de rede mínima necessária em cada unidade;
+
+d) Estimar a capacidade de atendimento por cabine, em número de pacientes por turno e por dia, definindo quantas cabines seriam necessárias para absorver a demanda atual, considerando o absenteísmo de cada região:
 
 Zona Leste	10;
 
@@ -55,6 +57,6 @@ Nesse sentido, a telemedicina se apresenta como uma alternativa viável para red
 ## Público-Alvo
 
 
-O público-alvo desta ação é composto pelos pacientes atendidos nos serviços de saúde vinculados ao curso de Medicina da PUC Minas em Poços de Caldas, usuários do sistema público de saúde acompanhados em atividades de assistência e ensino da universidade. Trata-se de um grupo heterogêneo quanto à faixa etária, à condição socioeconômica e ao vínculo com o território, com atenção especial aos que enfrentam barreiras de deslocamento para comparecer às consultas, como a dependência do transporte público ou de apoio de terceiros, a dificuldade de arcar com os custos da locomoção e a necessidade de conciliar o atendimento com o trabalho ou com responsabilidades de cuidado. Essas limitações de acesso, somadas às condições financeiras, estão entre os fatores que dificultam a presença nas consultas e contribuem para o absenteísmo registrado pelo curso.
+O público-alvo desta ação é composto por pacientes atendidos pelo SUS, especialmente os vinculados a hospitais universitários como a PUC de Poços de Caldas. Esse grupo apresenta perfis variados quanto à idade, condição socioeconômica e alfabetização digital, refletindo a diversidade de pessoas que dependem do sistema público de saúde para acompanhamento médico.
 
-Também integram o público os profissionais que atuam no atendimento, como médicos, docentes, estudantes, enfermeiros e equipe administrativa, cuja adesão é essencial para que a solução seja incorporada à rotina do serviço. Compreender esse perfil é necessário para desenvolver uma solução acessível e alinhada aos objetivos da ODS 3 (Saúde e Bem-Estar) e da ODS 10 (Redução das Desigualdades) da Agenda 2030.
+Trata-se de pessoas já habituadas aos processos do SUS, mas que enfrentam barreiras recorrentes de transporte, condição financeira para comparecer às consultas, e principalmente a dificuldade com o uso de tecnologias, fatores que juntos respondem por quase metade das faltas registradas. Esse público também se relaciona com profissionais de saúde (médicos, enfermeiros e equipe administrativa), cuja adesão à ferramenta é igualmente importante. Compreender esse perfil é essencial para desenvolver uma solução acessível, alinhada aos objetivos da ODS 3 e da ODS 10 da Agenda 2030.
