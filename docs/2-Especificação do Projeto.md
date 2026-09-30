@@ -32,27 +32,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | Antônio Silva - Persona 2 | Ter acesso a atendimentos de saúde em um local próximo, sem depender da ajuda de terceiros para me deslocar | Continuar meu acompanhamento médico sem risco de quedas ou necessidade de ajuda de terceiros para me deslocar. |
 | Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Manter meu acompanhamento médico contínuo, evitando o desgaste físico e faltas às consultas. |
 
-## Requisitos Funcionais
-
-
-| ID | Descrição do Requisito | Prioridade |
-|----|-------------------------|------------|
-| RF-001 | O sistema deverá permitir que o usuário realize atendimento remoto com um profissional de saúde por meio da cabine | ALTA |
-| RF-002 | O sistema deverá permitir a realização de atendimento remoto com profissionais de saúde| ALTA |
-| RF-003 | O sistema deverá permitir que o usuário receba orientações e acompanhamento sem a necessidade de realizar grandes deslocamentos para outras unidades de atendimento | ALTA |
-| RF-004 | O sistema deverá disponibilizar um smartwatch integrado à cabine, permitindo que o profissional de saúde acesse dados como batimentos cardíacos do paciente durante a teleconsulta | ALTA |
-
-
-## Requisitos Não Funcionais
-
-
-| ID | Descrição do Requisito | Prioridade |
-|----|-------------------------|------------|
-| RNF-001 | O sistema deverá estabelecer a conexão com o profissional de saúde de forma rápida, reduzindo o tempo de espera para o atendimento | ALTA |
-| RNF-002 | A cabine deverá possuir equipamentos de áudio com qualidade suficiente para permitir uma comunicação clara entre o usuário e o profissional | ALTA |
-| RNF-003 | A cabine deverá possuir uma interface intuitiva e acessível, facilitando sua utilização por pessoas idosas ou com pouca familiaridade com tecnologia | ALTA |
-| RNF-004 | A cabine deverá oferecer privacidade adequada durante o atendimento, evitando que outras pessoas tenham acesso à conversa entre o usuário e o profissional | ALTA |
-
 ### Artefatos para levantamento de dados
 
  Para o levantamento de dados do projeto Saúde Digital, o grupo realizou uma reunião com os professores orientadores Fabiano e Udo, no dia 28 de agosto, às 10h, com a participação das integrantes do grupo Nadya, Ana Letícia e Amanda, com o objetivo de discutir e alinhar as expectativas iniciais em relação ao projeto. Nesse encontro, o professor Fabiano explicou o contexto, os objetivos e as necessidades relacionadas ao projeto, e as informações discutidas foram registradas por meio de anotações realizadas pelas integrantes durante o encontro. A estratégia adotada foi a de reunião presencial, o que possibilitou o esclarecimento imediato de dúvidas e uma coleta de informações.
