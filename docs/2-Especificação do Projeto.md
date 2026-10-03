@@ -28,7 +28,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | EU COMO... `PERSONA`            | QUERO/PRECISO ... `FUNCIONALIDADE`                             | PARA ... `MOTIVO/VALOR`                                              |
 | ------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Clemilton Fernandes - Persona 1 | Ter acesso rápido às informações sobre meus níveis de diabetes | Acompanhar minha condição de saúde e as melhorias no meu tratamento. |
+| Clemilton Fernandes - Persona 1 | Realizar as consultas de acompanhamento do diabetes próxima à minha residência |Não faltar às consultas de acompanhamento por causa da distância até o atendimento, mantendo meu tratamento contínuo. |
 | Antônio Silva - Persona 2 | Ter acesso a atendimentos de saúde em um local próximo, sem depender da ajuda de terceiros para me deslocar | Continuar meu acompanhamento médico sem risco de quedas ou necessidade de ajuda de terceiros para me deslocar. |
 | Maria Aparecida - Persona 3 | Ter acesso aos atendimentos de saúde próximos à minha residência | Manter meu acompanhamento médico contínuo, evitando o desgaste físico e faltas às consultas. |
 
