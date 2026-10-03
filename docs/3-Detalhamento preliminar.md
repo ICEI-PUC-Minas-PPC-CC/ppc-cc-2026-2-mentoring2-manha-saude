@@ -144,7 +144,39 @@ Falta a planilha e os hardware que o Fabiano falou que tem.
 
 #**2) Analisar as características necessárias para o ambiente físico da teleconsulta.**
 
-Perguntas e respostas das reunião e print da mesma.
+Perguntas feitas para a professora de arquitetura:
+Qual a área mínima e ideal recomendada para a cabine (considerando paciente, acompanhante se necessário, e equipamentos)?
+
+No caso do uso de uma TV, quais devem ser as medidas necessárias do espaço?
+
+Como será o fluxo de entrada/saída do paciente sem cruzar com outras pessoas aguardando?
+
+Como a cabine poderá atender às normas de acessibilidade (NBR 9050)?
+
+Como garantir conforto térmico e acústico, já que muitas conversas serão sensíveis (sigilo médico)?
+
+Que tipo de mobiliário é necessário para melhor conforto do paciente? (mesa, cadeira, armários para equipamentos)?
+
+Onde serão posicionados o monitor/tela para videochamada, câmera e microfone, considerando ergonomia e iluminação do rosto do paciente?
+
+Qual tipo de iluminação é ideal para não prejudicar a qualidade de imagem na videochamada e exames visuais (ex: dermatologia)?
+
+Qual tipo/cor de iluminação proporciona um ambiente mais confortável e acolhedor ao paciente?
+
+Há possibilidade de luz natural, ou será 100% artificial por questões de padronização?
+
+Quais materiais de acabamento (piso, parede, superfícies) são recomendados para facilitar limpeza e desinfecção?
+
+Quais normas da Vigilância Sanitária (ANVISA) e do CFM para teleconsulta se aplicam ao espaço físico?
+
+Existe exigência de licenças específicas para esse tipo de instalação?
+
+Qual aplicativo podemos usar para criar um esboço do espaço?
+
+ Registro da reunião:
+
+ <img width="175" height="395" alt="image" src="https://github.com/user-attachments/assets/5049c179-552c-4173-8827-da660dbbad62" />
+
 
 
 
