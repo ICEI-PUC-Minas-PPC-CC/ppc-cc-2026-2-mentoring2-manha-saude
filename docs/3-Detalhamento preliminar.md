@@ -144,7 +144,7 @@ Falta a planilha e os hardware que o Fabiano falou que tem.
 
 #**2) Analisar as características necessárias para o ambiente físico da teleconsulta.**
 
-#Perguntas feitas para a professora de arquitetura:
+**Perguntas feitas para a professora de arquitetura:**
 Qual a área mínima e ideal recomendada para a cabine (considerando paciente, acompanhante se necessário, e equipamentos)?
 
 No caso do uso de uma TV, quais devem ser as medidas necessárias do espaço?
@@ -173,11 +173,11 @@ Existe exigência de licenças específicas para esse tipo de instalação?
 
 Qual aplicativo podemos usar para criar um esboço do espaço?
 
-#Registro da reunião:
+**Registro da reunião:**
 
  <img width="175" height="395" alt="image" src="https://github.com/user-attachments/assets/5049c179-552c-4173-8827-da660dbbad62" />
 
-#Descrição das características após a reunião:
+**Descrição das características após a reunião:**
 Sala: precisaria de no mínimo um espaço de 3,5 x 3,5m, com a passagem da porta de 90cm e com abertura para fora. 
 
 Posicionamentos: as costas das poltronas ficariam 2m de distância da porta e 1,5m da tv e estariam posicionadas mais para o lado esquerdo, tv no meio e de frente aos olhos, janela do lado esquerdo, mesa de computador do lado direito, ar condicionado do lado direito e porta estaria mais para a direita.
