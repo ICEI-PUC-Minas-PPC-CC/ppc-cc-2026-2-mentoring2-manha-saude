@@ -144,7 +144,7 @@ Falta a planilha e os hardware que o Fabiano falou que tem.
 
 #**2) Analisar as características necessárias para o ambiente físico da teleconsulta.**
 
-Perguntas feitas para a professora de arquitetura:
+#Perguntas feitas para a professora de arquitetura:
 Qual a área mínima e ideal recomendada para a cabine (considerando paciente, acompanhante se necessário, e equipamentos)?
 
 No caso do uso de uma TV, quais devem ser as medidas necessárias do espaço?
@@ -173,11 +173,32 @@ Existe exigência de licenças específicas para esse tipo de instalação?
 
 Qual aplicativo podemos usar para criar um esboço do espaço?
 
- Registro da reunião:
+#Registro da reunião:
 
  <img width="175" height="395" alt="image" src="https://github.com/user-attachments/assets/5049c179-552c-4173-8827-da660dbbad62" />
 
+#Descrição das características após a reunião:
+Sala: precisaria de no mínimo um espaço de 3,5 x 3,5m, com a passagem da porta de 90cm e com abertura para fora. 
 
+Posicionamentos: as costas das poltronas ficariam 2m de distância da porta e 1,5m da tv e estariam posicionadas mais para o lado esquerdo, tv no meio e de frente aos olhos, janela do lado esquerdo, mesa de computador do lado direito, ar condicionado do lado direito e porta estaria mais para a direita.
+
+Corredor: mínimo 1,20m, mas se for com sala dos dois lados, seria ideal de 1,5m ou 1,6m. Caso colocasse um banco para o paciente esperar, o banco terá 60cm e o corredor seria mais largo.
+
+Janela: para uma iluminação não tão forte, com uma penumbra na sala, o ideal seria usar persiana com regulação.
+
+Ventilação: ar condicionado é a melhor opção.
+
+Iluminação: o ideal é usar um led de placa com temperatura de 4000K.
+
+Acústica: pode ser usado dry wall, com uma divisória que chega até o teto e com lã de rocha entre o dry wall, isolando o som. Ou pode ser usado uma parede de tijolo, que já isola o som por si só.
+
+Móveis e eletrodomésticos: tv de 42", duas poltronas de 70 x 70 cm cada, banquinho de 30 x 30 cm para um intérprete, mesa para o computador de 70 x 70 cm, cadeira de 45 x 50 cm, mesa para planta entre as poltronas de 30 x 30cm.
+
+Decorações: painel de madeira, plantas artificiais, prateleiras com algo. Na sala de espera, pode ter um jardim vertical, que seja uma planta mais seca, sem terra e bichos.
+
+Cores: usar mais tons de bege, areia, amarelo, verde claro, rosa. E nos móveis seria branco ou tons de madeira. No piso a melhor opção é porcelanato, com tons de areia ou bege.
+
+Licenças: não tem definições de exigências de licenças específicas.
 
 
 #**3) Elaborar uma representação preliminar do ambiente de teleconsulta.**
