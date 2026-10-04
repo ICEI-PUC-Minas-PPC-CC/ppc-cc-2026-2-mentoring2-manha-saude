@@ -137,7 +137,8 @@ A teleconsulta ilimitada só vem no Premium. Nos outros planos ela sai por mais 
 
 **Requisitos mínimos (software e infraestrutura):** Necessita de conexão com a Internet e equipamento com capacidade para realizar chamadas de áudio e vídeo. A solução prevê microcomputador completo, plataforma Web e aplicativo, além de conectividade por Wi-Fi ou Ethernet. O software funciona no modelo SaaS, permitindo personalização da identidade visual e integração com outros sistemas, mas não há indicação de acesso ao código-fonte para modificações diretas.
 
-Falta a planilha e os hardware que o Fabiano falou que tem.
+
+Planilha feita e salva tabela de comparação.xlsx separadamente.
 
 ---
 
