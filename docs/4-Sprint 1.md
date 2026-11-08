@@ -1,11 +1,5 @@
 # Sprint 1
 
-3) Representar como poderia funcionar uma teleconsulta:
-
-# Sprint 1
-
-
-
 
 **3) Representar como poderia funcionar uma teleconsulta:**
 
