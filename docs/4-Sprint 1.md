@@ -1,6 +1,6 @@
 # Sprint 1
 
-##4) Revisar as representações dos ambientes:
+#4) Revisar as representações dos ambientes:#
 
 Após nova conversa com a professora de Arquitetura, ela sugeriu as seguintes alterações:
 
