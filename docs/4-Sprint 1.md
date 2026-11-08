@@ -1,5 +1,14 @@
 # Sprint 1
 
+**1) Revisar a proposta dos ambientes com o professor/profissional da área de Arquitetura:**
+
+Discutido com a professora de Arquitetura as principais mudanças, tudo na parte 4.
+
+
+**2)Analisar os recursos tecnológicos necessários:**
+
+Deixado para proxima etapa.
+
 
 **3) Representar como poderia funcionar uma teleconsulta:**
 
