@@ -51,6 +51,7 @@ Durante a consulta, o profissional escuta o paciente, realiza a avaliação poss
 - *Limitações na avaliação médica:* encaminhar para atendimento presencial quando necessário.
 - *Problemas no registro das informações:* seguir os procedimentos de contingência da unidade, mantendo o sigilo.
 - *Necessidade de reagendamento:* organizar novo horário ou outra forma adequada de atendimento.
+- Atraso do profissional de saúde: pode aumentar o tempo de espera do paciente; a equipe da UBS deve informar sobre o atraso e verificar a possibilidade de reorganizar o atendimento.
 
 
 **4) Revisar as representações dos ambientes:**
