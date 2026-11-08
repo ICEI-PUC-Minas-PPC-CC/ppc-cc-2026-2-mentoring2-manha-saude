@@ -7,6 +7,11 @@ Após nova conversa com a professora de Arquitetura, ela sugeriu as seguintes al
 
 2- Reduzir a distância entre a poltrona e a parede, que atualmente é de 1,50 m.
 
+
+Link antigo gerado pelo Claude.ai:
+
+https://claude.ai/artifact/YVfdSLz1m8xGVBubeoo8JW
+
 Link atualizado gerado pelo Claude.ai:
 
 https://claude.ai/artifact/YVfdSLz1m8xGVBubeoo8JW
