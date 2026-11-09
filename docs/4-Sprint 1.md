@@ -28,7 +28,7 @@ Durante a consulta, o profissional escuta o paciente, realiza a avaliação poss
 - *Plataforma segura de videochamada:* para proteger as informações compartilhadas.
 - *Sala reservada:* para garantir conforto e privacidade ao paciente.
 - *Profissional de apoio na UBS:* para preparar os equipamentos e auxiliar o paciente.
-- *Sistema de registro:* para armazenar com segurança o histórico do atendimento.
+- *Sistema de registro:* para armazenar com segurança o histórico do atendimento e as informações passadas pelo profissional no atendimento.
 
 ### Pontos de atenção
 
@@ -37,7 +37,7 @@ Durante a consulta, o profissional escuta o paciente, realiza a avaliação poss
 - *Identificação dos participantes:* confirmar a identidade do paciente e do profissional antes de iniciar.
 - *Consentimento do paciente:* o paciente deve ser informado e concordar com o atendimento remoto.
 - *Funcionamento dos equipamentos:* verificar câmera, microfone, computador e internet antes da consulta.
-- *Qualidade da comunicação:* garantir que o paciente compreenda as orientações.
+- *Qualidade da comunicação:* garantir que todas as informações sejam claras para o entendimento do paciente.
 - *Limitações do atendimento remoto:* reconhecer quando é necessário atendimento presencial.
 
 ### Possíveis dificuldades durante o atendimento
@@ -45,7 +45,7 @@ Durante a consulta, o profissional escuta o paciente, realiza a avaliação poss
 - *Problemas na chegada e identificação:* dados incorretos ou agendamento não confirmado; a recepção deve corrigir antes do atendimento.
 - *Indisponibilidade de sala reservada:* compromete a privacidade; organizar outro ambiente ou aguardar.
 - *Falha na conexão com a internet:* tentar restabelecer a conexão ou reagendar.
-- *Problemas com câmera ou microfone:* verificar as configurações e os equipamentos.
+- *Problemas com câmera ou microfone:* verificar as configurações e os equipamentos, necessário o teste das ferramentas sempre antes de usá-las.
 - *Dificuldade no uso da tecnologia:* um funcionário da UBS pode auxiliar o paciente.
 - *Problemas de comunicação:* o profissional deve falar com clareza e confirmar o entendimento do paciente.
 - *Limitações na avaliação médica:* encaminhar para atendimento presencial quando necessário.
